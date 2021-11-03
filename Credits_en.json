@@ -2,16 +2,16 @@
   {
     "name":"Edited Cocktail",
     "text":"With this application I want to show that fans are capable of a lot!<br>( I hope someone will write a visual novel about me )",
-    "img":"Img/authors/Edit.png"
+    "img":"Edit.png"
   },
   {
     "name":"Mojang Studios",
     "text":"Thanks for Minecraft",
-    "img":"Img/authors/mojang_icon.png"
+    "img":"Mojang.png"
   },
   {
     "name": "Hrnec",
     "text": "Translated to Czech :D",
-    "img": "Img/authors/hrnec.gif"
+    "img": "Hrnec.gif"
   }
 ]
