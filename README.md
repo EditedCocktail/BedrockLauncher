@@ -1,3 +1,2 @@
 Repository for storing files for app
-Bedrock Launcher
-Discord: https://discord.gg/BDZjkmQEXu
+Bedrock Launcher<br>Discord: https://discord.gg/BDZjkmQEXu
