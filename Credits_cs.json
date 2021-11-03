@@ -1,17 +1,17 @@
 [
   {
-    "name": "Edited Cocktail",
-    "text": "S touto aplikací chci ukázat, že fanoušci jsou schopni hodně!<br>( Doufám, že o mně někdo napíše vizuální román )",
-    "img": "Img/authors/Edit.png"
+    "name":"Edited Cocktail",
+    "text":"S touto aplikací chci ukázat, že fanoušci jsou schopni hodně!<br>( Doufám, že o mně někdo napíše vizuální román )",
+    "img":"Edit.png"
   },
   {
     "name":"Mojang Studios",
     "text":"Díky za Minecraft",
-    "img": "Img/icons/mojang_icon.png"
+    "img":"Mojang.png"
   },
   {
-    "name": "Hrnec",
-    "text": "Přeložil aplikaci do češtiny",
-    "img": "Img/authors/hrnec.gif"
+    "name":"Hrnec",
+    "text":"Přeložil aplikaci do češtiny",
+    "img":"Hrnec.gif"
   }
 ]
