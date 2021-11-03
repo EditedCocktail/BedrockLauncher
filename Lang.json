@@ -1,6 +1,6 @@
 {
   "langs":[ "Русский", "English", "Češka" ],
-  "codes":{ "русский":"ru", "english":"en", "Češka":"cs"  },
+  "codes":[ "ru", "en", "cs" ],
   "trans":{
     "MainLst":{
       "ru":":Профиль:Img/icons/mojang_icon.png,Новости:Img/icons/news_icon.png,MINECRAFT:Издание Bedrock:Img/icons/bedrock_grass_icon.png,Переключится на:Лаунчер Java:Img/icons/grass_icon.png,Сообщество:Img/icons/servers_icon.png",
