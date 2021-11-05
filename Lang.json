@@ -3,9 +3,9 @@
   "codes":[ "ru", "en", "cs" ],
   "trans":{
     "MainLst":{
-      "ru":":Профиль:Img/icons/mojang_icon.png,Новости:Img/icons/news_icon.png,MINECRAFT:Издание Bedrock:Img/icons/bedrock_grass_icon.png,Переключится на:Лаунчер Java:Img/icons/grass_icon.png,Сообщество:Img/icons/servers_icon.png",
-      "en":":Profile:Img/icons/mojang_icon.png,News:Img/icons/news_icon.png,MINECRAFT:Bedrock Edition:Img/icons/bedrock_grass_icon.png,Switch to:Java Launcher:Img/icons/grass_icon.png,Community:Img/icons/servers_icon.png",
-      "cs":":Profile:Img/icons/mojang_icon.png,Novinky:Img/icons/news_icon.png,MINECRAFT:Bedrock Edition:Img/icons/bedrock_grass_icon.png,Přepnout na:Java Launcher:Img/icons/grass_icon.png,Komunita:Img/icons/servers_icon.png"
+      "ru":":Img/icons/mojang_icon.png,Новости:Img/icons/news_icon.png,MINECRAFT:Издание Bedrock:Img/icons/bedrock_grass_icon.png,Переключится на:Лаунчер Java:Img/icons/grass_icon.png,Сообщество:Img/icons/servers_icon.png",
+      "en":":Img/icons/mojang_icon.png,News:Img/icons/news_icon.png,MINECRAFT:Bedrock Edition:Img/icons/bedrock_grass_icon.png,Switch to:Java Launcher:Img/icons/grass_icon.png,Community:Img/icons/servers_icon.png",
+      "cs":":Img/icons/mojang_icon.png,Novinky:Img/icons/news_icon.png,MINECRAFT:Bedrock Edition:Img/icons/bedrock_grass_icon.png,Přepnout na:Java Launcher:Img/icons/grass_icon.png,Komunita:Img/icons/servers_icon.png"
     },
     "SettingsLst":{
       "ru":"Настройка приложения,Настройка фона,Настройка звука,Упоминания,Лицензия",
@@ -16,6 +16,11 @@
       "ru":"1.00 Портативное издание,1.08 Кошки и Панды,1.09 Обновление боя,1.11 Исследовательское обновление,1.12 Обновление цветов мира,1.13 Водное обновление,1.13 Техническое обновление,1.14 Жители и Разбойники,1.15 Обновление жужжащих пчёл,1.16 Обновление ада,1.17.1 Пещеры и Скалы,Классический фон,Консольный фон,Консольный легаси фон,Консольный легаси фон 2,Инди фон,Легаси фон,Minecraft Dungeons,Оригинальный фон,Премиум версия игры,Стандартная версия игры",
       "en":"1.00 Pocket Edition,1.08 Cats and Pandas,1.09 Combat update,1.11 Exploration update,1.12 World of color update,1.13 Aquatic update,1.13 Technical update,1.14 Villagers and Pillagers,1.15 Buzzy bees update,1.16 Nether update,1.17.1 Caves and Cliffs,Classic background,Console background,Console legacy background,Console legacy background 2,Indie background,Legacy background,Minecraft Dungeons,Original background,Minecraft premium edition,Minecraft standart edition",
       "cs":"1.00 Pocket Edition,1.08 Kočky a Pandy,1.09 Combat update,1.11 Průzkum aktualizace,1.12 Svět barev update,1.13 Vodní update,1.13 Technické aktualizace,1.14 Vesničané a Kapsáři,1.15 Bzučící včely aktualizace,1.16 Nether update,1.17.1 Jeskyně a Útesy,Klasické pozadí,Konzole pozadí,Konzola legacy pozadí,Konzola legacy pozadí 2,Indie pozadí,Legacy pozadí,Minecraft Dungeons,Původní pozadí,Premium minecraft,Minecraft standart"
+    },
+    "Profile":{
+      "ru":"Профиль",
+      "en":"Profile",
+      "cs":"Profile"
     },
     "ChangeProfile":{
       "ru":"Сменить профиль",
