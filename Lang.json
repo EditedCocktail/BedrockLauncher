@@ -54,6 +54,14 @@
       "ru":"Неверный пароль",
       "en":"Wrong password"
     },
+    "PassChanged":{
+      "ru":"Пароль был изменён",
+      "en":"Password was changed"
+    },
+    "AccountDeleted":{
+      "ru":"Аккаунт был удалён",
+      "en":"Account was deleted"
+    },
     "ChooseTab":{
       "ru":"Вкладки",
       "en":"Tabs",
