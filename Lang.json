@@ -17,6 +17,35 @@
       "en":"1.00 Pocket Edition,1.08 Cats and Pandas,1.09 Combat update,1.11 Exploration update,1.12 World of color update,1.13 Aquatic update,1.13 Technical update,1.14 Villagers and Pillagers,1.15 Buzzy bees update,1.16 Nether update,1.17.1 Caves and Cliffs,Classic background,Console background,Console legacy background,Console legacy background 2,Indie background,Legacy background,Minecraft Dungeons,Original background,Minecraft premium edition,Minecraft standart edition",
       "cs":"1.00 Pocket Edition,1.08 Kočky a Pandy,1.09 Combat update,1.11 Průzkum aktualizace,1.12 Svět barev update,1.13 Vodní update,1.13 Technické aktualizace,1.14 Vesničané a Kapsáři,1.15 Bzučící včely aktualizace,1.16 Nether update,1.17.1 Jeskyně a Útesy,Klasické pozadí,Konzole pozadí,Konzola legacy pozadí,Konzola legacy pozadí 2,Indie pozadí,Legacy pozadí,Minecraft Dungeons,Původní pozadí,Premium minecraft,Minecraft standart"
     },
+
+    "ChangeProfile":{
+      "ru":"Сменить профиль",
+      "en":"Change profile"
+    },
+    "Login":{
+      "ru":"Войти",
+      "en":"Login"
+    },
+    "Logined":{
+      "ru":"Произведён вход",
+      "en":"Logged in"
+    },
+    "Register":{
+      "ru":"Зарегестрироватся",
+      "en":"Register"
+    }
+    "Registered":{
+      "ru":"Профиль зарегестрирован",
+      "en":"Profile registered"
+    },
+    "WrongName":{
+      "ru":"Неверное имя",
+      "en":"Wrong name"
+    },
+    "WrongPass":{
+      "ru":"Неверный пароль",
+      "en":"Wrong password"
+    },
     "ChooseTab":{
       "ru":"Вкладки",
       "en":"Tabs",
