@@ -21,6 +21,10 @@
       "ru":"Имя уже зарегестрированно",
       "en":"Name already registered"
     },
+    "VersionNull":{
+      "ru":"Версия неопознана",
+      "en":"Version unrecognized"
+    },
     "Profile":{
       "ru":"Профиль",
       "en":"Profile",
