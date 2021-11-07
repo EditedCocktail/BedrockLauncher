@@ -214,5 +214,6 @@
   "1.18.0.21":{ "date":"14-10-2021", "name":"minecraft-1-18-0-21", "beta":true },
   "1.18.0.22":{ "date":"21-10-2021", "name":"minecraft-1-18-0-22", "beta":true },
   "1.18.0.23":{ "date":"22-10-2021", "name":"minecraft-1-18-0-23", "beta":true },
-  "1.18.0.24":{ "date":"27-10-2021", "name":"minecraft-1-18-0-24", "beta":true }
+  "1.18.0.24":{ "date":"27-10-2021", "name":"minecraft-1-18-0-24", "beta":true },
+  "1.18.0.25":{ "date":"04-11-2021", "name":"minecraft-1-18-0-25", "beta":true }
 }
