@@ -21,6 +21,10 @@
       "ru":"Имя уже зарегестрированно",
       "en":"Name already registered"
     },
+    "BlankField":{
+      "ru":"Поле не может быть пустым",
+      "en":"The field cannot be empty"
+    },
     "Profile":{
       "ru":"Профиль",
       "en":"Profile",
