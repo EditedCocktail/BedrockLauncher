@@ -18,12 +18,19 @@
       "cs":"1.00 Pocket Edition,1.08 Kočky a Pandy,1.09 Combat update,1.11 Průzkum aktualizace,1.12 Svět barev update,1.13 Vodní update,1.13 Technické aktualizace,1.14 Vesničané a Kapsáři,1.15 Bzučící včely aktualizace,1.16 Nether update,1.17.1 Jeskyně a Útesy,Klasické pozadí,Konzole pozadí,Konzola legacy pozadí,Konzola legacy pozadí 2,Indie pozadí,Legacy pozadí,Minecraft Dungeons,Původní pozadí,Premium minecraft,Minecraft standart"
     },
     "RegisteredName":{
-      "ru":"Имя уже зарегестрированно",
-      "en":"Name already registered"
+      "ru":"Имя уже занято",
+      "en":"Name is already taken",
+      "cs":"Jméno je již obsazeno"
     },
     "BlankField":{
       "ru":"Поле не может быть пустым",
-      "en":"The field cannot be empty"
+      "en":"The field cannot be empty",
+      "cs":"Pole nemůže být prázdné"
+    },
+    "Loading":{
+      "ru":"Загрузка",
+      "en":"Loading",
+      "cs":"načítání"
     },
     "Profile":{
       "ru":"Профиль",
@@ -32,39 +39,48 @@
     },
     "ChangeProfile":{
       "ru":"Сменить профиль",
-      "en":"Change profile"
+      "en":"Change profile",
+      "cs":"Změnit profil"
     },
     "Login":{
       "ru":"Войти",
-      "en":"Login"
+      "en":"Login",
+      "cs":"Přihlásit se"
     },
     "Logined":{
       "ru":"Произведён вход",
-      "en":"Logged in"
+      "en":"Logged in",
+      "cs":"Přihlášen"
     },
     "Register":{
       "ru":"Зарегестрироватся",
-      "en":"Register"
+      "en":"Register",
+      "cs":"Registrovat"
     },
     "Registered":{
       "ru":"Профиль зарегестрирован",
-      "en":"Profile registered"
+      "en":"Profile registered",
+      "cs":"Profil registrován"
     },
     "WrongName":{
       "ru":"Неверное имя",
-      "en":"Wrong name"
+      "en":"Wrong name",
+      "cs":"Špatný název"
     },
     "WrongPass":{
       "ru":"Неверный пароль",
-      "en":"Wrong password"
+      "en":"Wrong password",
+      "cs":"Špatné heslo"
     },
     "PassChanged":{
       "ru":"Пароль был изменён",
-      "en":"Password was changed"
+      "en":"Password was changed",
+      "cs":"Heslo bylo změněno"
     },
     "AccountDeleted":{
       "ru":"Аккаунт был удалён",
-      "en":"Account was deleted"
+      "en":"Account was deleted",
+      "cs":"Účet byl smazán"
     },
     "ChooseTab":{
       "ru":"Вкладки",
