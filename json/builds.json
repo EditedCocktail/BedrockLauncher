@@ -85,8 +85,13 @@
     "cs":"1) Přidáno další upozornění na špatnou síť\n2) Kód přepsaný z elfského na lidský\n3) Nový časový parametr\n4) Smazán parametr id"
   },
   "117":{
-    "ru":"1) Добавлено авто обновление\n2) Добавлена загрузка во время регистрации",
-    "en":"1) Added auto update\n2) Added download during registration",
-    "cs":"1) Přidána automatická aktualizace\n2) Přidáno stahování během registrace"
+    "ru":"1) Добавлено обновление из приложения\n2) Добавлена загрузка во время регистрации",
+    "en":"1) Added update from the application\n2) Added download during registration",
+    "cs":"1) Přidána aktualizace z aplikace\n2) Přidáno stahování během registrace"
+  },
+  "118":{
+    "ru":"1) Добавлено окно изменений после обновления\n2) Исправлен баг с оффлайн режимом\n3) Ещё пару фиксов",
+    "en":"1) Added change window after update\n2) Fixed bug with offline mode\n3) A couple more fixes ",
+    "cs":"1) Přidáno okno změn po aktualizaci\n2) Opravená chyba s režimem offline\n3) Několik dalších oprav"
   }
 }
