@@ -1,0 +1,92 @@
+{
+  "100":{
+    "ru":"Первая версия",
+    "en":"First version",
+    "cs":"První verze"
+  },
+  "101":{
+    "ru":"1) Стиль вкладки 'Изменения ника'\n2) Стиль вкладки 'Новости'\n3) Изменён принцып загрузки версий",
+    "en":"1) Style of the 'Nick changes' tab\n2) Style of the 'News' tab\n3) Changed the principle of loading versions",
+    "cs":"1) Styl karty 'Změny přezdívek'\n2) Styl karty 'Novinky'\n3) Změněn princip načítání verzí"
+  },
+  "102":{
+    "ru":"1) Во вкладке 'Комьюнити' теперь можно писать посты и смотреть чужие",
+    "en":"1) In the 'Community' tab you can now write posts and watch others",
+    "cs":"1) Na kartě 'Komunita' nyní můžete psát příspěvky a sledovat příspěvky ostatních lidí"
+  },
+  "103":{
+    "ru":"1) Полное изменение стиля всех вкладок\n2) Изменение работы постов\n3) Возможность удалить пост\n4) Автосопоставка фона",
+    "en":"1) Completely change the style of all tabs\n2) Change how posts workn\n3) Ability to delete a post\n4) Auto-match background",
+    "cs":"1) Zcela změnit styl všech karet\n2) Změnit způsob fungování příspěvků\n3) Možnost smazat příspěvek\n4) Automaticky přiřadit pozadí"
+  },
+  "104":{
+    "ru":"1) Добавление разделов в настройки\n2) Новая система сохранения апк",
+    "en":"1) Adding partitions to settings\n2) New system for saving apk",
+    "cs":"1) Přidání oddílů do nastavení\n2) Nový systém pro ukládání apk"
+  },
+  "105":{
+    "ru":"1) Добавлено много бэта версий\n2) Локальное сохранение версий\n3) Фиксы багов",
+    "en":"1) Added many beta versions\n2) Save versions locally\n3) Bug fixes",
+    "cs":"1) Přidáno mnoho beta verzí\n2) Ukládat verze lokálně\n3) Opravy chyb"
+  },
+  "106":{
+    "ru":"1) Теперь доступны все версии майнкрафта, включая бэта\n2) Возможность загрузки своего файла с версиями ( можно получить у меня, либо сделать самому )\n3) Фиксы, много фиксов\n4) Новое сохранение переменных",
+    "en":"1) All versions of minecraft are now available, including betan2) Ability to upload your file with versions (you can get it from me, or do it yourself)n3) Fixes, many fixes\n4) New saving of variables",
+    "cs":"1) Všechny verze minecraftu jsou nyní k dispozici, včetně beta2) Možnost nahrát svůj soubor s verzemi (můžete to získat ode mě, nebo to můžete udělat sami)n3) Opravy, mnoho oprav\n4) Nové ukládání proměnných"
+  },
+  "107":{
+    "ru":"1) Мультиязыковая поддержка в зависимости от системного языка\n2) Удаление постов по айди\n3) Много фиксов",
+    "en":"1) Multi language support, based on your system language\n2) Post deleting by device id\n3) Bug fixes",
+    "cs":"1) Podpora více jazyků na základě jazyka vašeho systému\n2) Mazání příspěvku podle ID zařízení\n3) Opravy chyb"
+  },
+  "108":{
+    "ru":"1) Добавлен новый язык: Чехский\n2) Новый шрифт поддерживающий все имеющиеся буквы юникода\n3) Оптимизация",
+    "en":"1) Added new language: Czech\n2) New font, that contains all unicode characters\n3) Optimization",
+    "cs":"1) Přidán nový jazyk: čeština\n2) Nový font, který obsahuje všechny znaky unicode\n3) Optimalizace"
+  },
+  "109":{
+    "ru":"1) Улучшение шрифта\n2) Новая загрузка\n3) Добавление звука нажатия на кнопки\n4) Новое лого\n5) Новое название",
+    "en":"1) Font upgrade\n2) New loading screen\n3) Added button pressed sound\n4) New logo\n5) New name",
+    "cs":"1) Upgrade písma\n2) Nová obrazovka načítání\n3) Přidán zvuk při stisknutí tlačítka\n4) Nové logo\n5) Nový název"
+  },
+  "110":{
+    "ru":"1) Добавлены новые буквы в шрифт\n2) Добавлены 3 типа новостей: 'Minecraft, Minecraft комьюнити, Minecraft патчи'\n3) Испарвлены ошибки с неровным загрузочным экраном и растянутым главным фоном\n4) Добавлено обозначение выбора в списке\n5) Приятные цвета лого",
+    "en":"1) Added new letters to the font\n2) Added 3 types of news: 'Minecraft, Minecraft community, Minecraft patches'\n3) Fixed bugs with uncentered loading screen and stretched main background\n4) Added selection indicator in the list\n5) Soft colors logo",
+    "cs":"1) Do písma přidána nová písmena\n2) Přidány 3 typy novinek: 'Minecraft, komunita Minecraftu, opravy Minecraftu'\n3) Opravené chyby s nevystředěnou načítací obrazovkou a roztaženým hlavním pozadím\n4) Přidán indikátor výběru v seznamu\n5 ) Logo v jemných barvách"
+  },
+  "111":{
+    "ru":"1) Изменены новости\n2) Добавлена локальная папка, доступная пользователю: '%HOMEPATH%/Documents/BedrockLauncher'\n3) Исправлены баги с размерами\n4) Доработана вкладка сообщество\n5) Возможность использовать html тэги в сообщениях сообщества\n5) Оптимизация",
+  "en":"1) Changed news\n2) Added a local folder available to the user: '%HOMEPATH%/Documents/BedrockLauncher'\n3) Fixed bugs with dimensions\n4) Improved community tab\n5) Ability to use html tags in the community messages\n5) Optimization",
+    "cs":"1) Změněné zprávy\n2) Přidána místní složka dostupná uživateli: '%HOMEPATH%/Documents/BedrockLauncher'\n3) Opravené chyby s dimenzemi\n4) Vylepšená karta komunity\n5) Možnost používat html tagy ve zprávách komunity\n5) Optimalizace"
+  },
+  "112":{
+    "ru":"1) Возможно это последнее обновление\n2) Добавлена музыка\n3) Изменён звук нажатий\n4) Добавлена настройка звуков\n5) Изменён дизайн настроек\n6) Локализованы задние фоны\n7) Список версий теперь загружаается с моего гитхаба: https://raw.githubusercontent.com/ArtemEDIT/BedrockLauncher/main/versions.json\n8) Новости теперь нажимаемы\n9) Изменена локализация\n10) Удалены ненужные файлы",
+  "en":"1) Maybe this is the last update\n2) Added music\n3) Changed the sound of clicks\n4) Added sounds settings\n5) Changed settings design\n6) Backgrounds localized\n7) The versions list is now loaded from my github: https://raw.githubusercontent.com/ArtemEDIT/BedrockLauncher/main/versions.json\n8) News is now clickable\n9) Changed localization\n10) Removed unnecessary files",
+    "cs":") Možná je to poslední aktualizace\n2) Přidána hudba\n3) Změněn zvuk kliknutí\n4) Přidána nastavení zvuků\n5) Změněn design nastavení\n6) Lokalizována pozadí\n7) Seznam verzí je nyní načten z mého githubu: https://raw.githubusercontent.com/ArtemEDIT/BedrockLauncher/main/versions.json\n8) Na zprávy lze nyní kliknout\n9) Změněna lokalizace\n10) Odstraněny nepotřebné soubory"
+  },
+  "113":{
+    "ru":"1) Теперь дата хранится в локальной папке\n2) Вкладки стали удобной кнопкой\n3) Лицензия, упоминания, версии, языки теперь загружаются с гитхаба приложения: https://github.com/ArtemEDIT/BedrockLauncher\n4) Изменены стили вкладок\n5) Добавлен шрифт MinecraftTen\n6) Изменена анимация перехода между вкладками\n7) Сообщество стало вкладкой\n8) Изменение размеров новостей, тепепь помещаются в экран всегда\n9) Все картинки прикреплённые в сообщениях сообщества автоматически форматируются под размер окна в ширину\n10) Увеличен размер шрифта в сообщениях сообщества\n11) Добавлено авто подстраивание текста под кнопки",
+  "en":"1) The data is now stored in the local folder\n2) Tabs have become a button\n3) License, credits, versions, languages ​​are now downloading from the app github: https://github.com/ArtemEDIT/BedrockLauncher\n4) Changed animation of tabs\n5) Added MinecraftTen font\n6) Changed tabs style\n7) Community became a tab\n8) Size of news, now always will fit on the screen\n9) All pictures attached in community messages are automatically formatted to fit the window width\n10) Increased font size in community posts\n11) Added buttons text auto scale",
+    "cs":"1) Data jsou nyní uložena v místní složce\n2) Karty se staly tlačítkem\n3) Licence, kredity, verze, jazyky se nyní stahují z aplikace github: https://github.com/ArtemEDIT/BedrockLauncher \n4) Změněna animace karet\n5) Přidáno písmo MinecraftTen\n6) Změněn styl karet\n7) Komunita se stala kartou\n8) Velikost zpráv, nyní se vždy vejde na obrazovku\n9) Všechny obrázky připojené ke zprávám komunity jsou automaticky formátováno na šířku okna\n10) Větší velikost písma v komunitních příspěvcích\n11) Přidána tlačítka automatické měřítko textu"
+  },
+  "114":{
+    "ru":"1) Кнопки получили более жирный шрифт\n2) Добавлены аккаунты\n3) Добавлено меню входа\n4) Новая датабаза\n5) Все настройки пользователей хранятся в датабазе\n6) Много фиксов связанных с интернетом",
+    "en":"1) The buttons got a bold font\n2) Added accounts\n3) Added login menu\n4) New database\n5) All user settings are stored in the database\n6) Many fixes related to the Internet",
+    "cs":"1) Tlačítka dostala tučné písmo\n2) Přidané účty\n3) Přidáno přihlašovací menu\n4) Nová databáze\n5) Všechna uživatelská nastavení jsou uložena v databázi\n6) Mnoho oprav souvisejících s internetem"
+  },
+  "115":{
+    "ru":"1) Изменены стили диалогов\n2) Доработаны размеры текстов\n3) Доработана вкладка сообщество\n4) Доделаны аккаунты",
+    "en":"1) Changed styles of dialogs\n2) Improved text sizes\n3) Improved community tab\n4) Completed accounts",
+    "cs":"1) Změněné styly dialogů\n2) Vylepšené velikosti textu\n3) Vylepšená karta Komunita\n4) Dokončené účty"
+  },
+  "116":{
+    "ru":"1) Добавлено больше предупреждений о плохой сети\n2) Код переписан с эльфийского на человеческий\n3) Новый параметр времени\n4) Удалён параметр айди",
+    "en":"1) Added more warnings about bad network\n2) Code rewritten from elvish to human\n3) New time parameter\n4) Deleted id parameter",
+    "cs":"1) Přidáno další upozornění na špatnou síť\n2) Kód přepsaný z elfského na lidský\n3) Nový časový parametr\n4) Smazán parametr id"
+  },
+  "117":{
+    "ru":"1) Добавлено авто обновление\n2) Добавлена загрузка во время регистрации",
+    "en":"1) Added auto update\n2) Added download during registration",
+    "cs":"1) Přidána automatická aktualizace\n2) Přidáno stahování během registrace"
+  }
+}
