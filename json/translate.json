@@ -8,9 +8,9 @@
       "cs":":Img/icons/mojang_icon.png,Novinky:Img/icons/news_icon.png,MINECRAFT:Bedrock Edition:Img/icons/bedrock_grass_icon.png,Přepnout na:Java Launcher:Img/icons/grass_icon.png,Komunita:Img/icons/servers_icon.png"
     },
     "SettingsLst":{
-      "ru":"Настройка приложения,Настройка фона,Настройка звука,Упоминания,Лицензия",
-      "en":"App settings,Background settings,Sound settings,Credits,License",
-      "cs":"Nastavení aplikace,Nastavení pozadí,Nastavení zvuku,Zmínky,License"
+      "ru":"Настройка приложения,Настройка фона,Настройка звука,Пожертвование,Упоминания,Лицензия",
+      "en":"App settings,Background settings,Sound settings,Donation,Credits,License",
+      "cs":"Nastavení aplikace,Nastavení pozadí,Nastavení zvuku,Dar,Zmínky,License"
     },
     "Backgrounds":{
       "ru":"Выбрать свой фон,1.00 Портативное издание,1.08 Кошки и Панды,1.09 Обновление боя,1.11 Исследовательское обновление,1.12 Обновление цветов мира,1.13 Водное обновление,1.13 Техническое обновление,1.14 Жители и Разбойники,1.15 Обновление жужжащих пчёл,1.16 Обновление ада,1.17.1 Пещеры и Скалы,Классический фон,Консольный фон,Консольный легаси фон,Консольный легаси фон 2,Инди фон,Легаси фон,Minecraft Dungeons,Оригинальный фон,Премиум версия игры,Стандартная версия игры",
