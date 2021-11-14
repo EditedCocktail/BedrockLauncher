@@ -95,8 +95,13 @@
     "cs":"1) Přidáno okno změn po aktualizaci\n2) Opravená chyba s režimem offline\n3) Několik dalších oprav"
   },
   "119":{
-    "ru":"",
-    "en":"",
-    "cs":""
+    "ru":"1) Фиксы багов\n2) Оптимизация",
+    "en":"1) Bug fixes\n2) Optimization",
+    "cs":"1) Opravy chyb\n2) Optimalizace"
+  },
+  "120":{
+    "ru":"1) Добавлена вкладка пожертвований\n2) Изменён шрифт вкладок",
+    "en":"1) Added donation tab\n2) Changed the font of the tabs",
+    "cs":"1) Přidána karta dary\n2) Změněno písmo karet"
   }
 }
