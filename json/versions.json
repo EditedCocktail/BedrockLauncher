@@ -232,5 +232,17 @@
   "1.18.10":{ "date":"08-02-2022", "name":"minecraft-1-18-10", "beta":false },
   "1.18.12":{ "date":"17-04-2022", "name":"minecraft-1-18-12", "beta":false },
   "1.18.20.21":{ "date":"27-01-2022", "name":"minecraft-1-18-20-21", "beta":true },
-  "1.18.20.23":{ "date":"02-02-2022", "name":"minecraft-1-18-20-23", "beta":true }
+  "1.18.20.23":{ "date":"02-02-2022", "name":"minecraft-1-18-20-23", "beta":true },
+  "1.18.20.25":{ "date":"09-02-2022", "name":"minecraft-1-18-20-25", "beta":true },
+  "1.18.20.27":{ "date":"17-02-2022", "name":"minecraft-1-18-20-27", "beta":true },
+  "1.18.20.29":{ "date":"24-02-2022", "name":"minecraft-1-18-20-29", "beta":true },
+  "1.18.30.20":{ "date":"03-03-2022", "name":"minecraft-1-18-30-20", "beta":true },
+  "1.18.30.22":{ "date":"09-03-2022", "name":"minecraft-1-18-30-22", "beta":true },
+  "1.18.30.26":{ "date":"16-03-2022", "name":"minecraft-1-18-30-26", "beta":true },
+  "1.18.30.28":{ "date":"23-03-2022", "name":"minecraft-1-18-30-28", "beta":true },
+  "1.18.30.30":{ "date":"26-03-2022", "name":'minecraft-1-18-30-30", "beta":true },
+  "1.18.30.32":{ "date":"07-06-2022", "name":"minecraft-1-18-30-32", "beta":true },
+  "1.18.30":{ "date":"07-06-2022", "name":"minecraft-1-18-30", "beta":false },
+  "1.18.31":{ "date":"27-06-2022", "name":"minecraft-1-18-31", "beta":false },
+  "1.18.32":{ "date":"07-06-2022", "name":"minecraft-1-18-32", "beta":false }
 }
